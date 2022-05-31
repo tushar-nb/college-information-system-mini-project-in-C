@@ -1,0 +1,73 @@
+---> Dr. Divya Udupa
+     
+     1.Qualification:
+
+     Qualification	          Institution	                   Year
+         MS	            Indian Institute of Science	           1995
+         PhD	           University of Southern California	   2006
+
+     2.Department and Designation: Computer Science Department
+                                   Professor
+     3.Experience: 7 years
+
+---> Dr.Krishnakanth MA
+
+     1.Qualification:
+
+     Qualification	         Institution	                    Year
+         BE	         UVCE, Bangalore University,	            1989
+         PhD	         University of Melbourne, Australia	    1996
+
+     2.Department and Designation: Computer Science Department
+                                   Chairperson
+     3.Experience: 15 years
+
+---> Mrs.Leela HS
+
+     1.Qualification:
+
+     Qualification	         Institution	                    Year
+         BE	         MSRIT, Bangalore 	                    1992
+         MBA	         Birla Institute of Technology,Ranchi       1999
+                           
+     2.Department and Designation: Electronics and communication Department
+                                   HOD
+     3.Experience: 11 years
+
+---> Mr.Rajendra Prasad
+
+     1.Qualification:
+
+     Qualification	         Institution	                    Year
+         BE	         Madras University, Tamil Nadu	            1994
+         M Tech	         University of Brisbane, Australia	    2003
+
+     2.Department and Designation: Mechanical Engineering Department
+                                   Dean
+     3.Experience: 9 years
+
+---> Ms.Preeti Roy
+
+     1.Qualification:
+
+     Qualification	         Institution	                    Year
+         BE	         Calicu University, West Bengal	            2002
+         Mtech	        Indian Institute of Technology,Kharagpur    2007
+
+     2.Department and Designation: Electrical and Electronics Engineering Department
+                                   Professor 
+     3.Experience: 5 years
+
+---> Mrs.Shobana Nair
+
+     1.Qualification:
+
+     Qualification	         Institution	                    Year
+         BE	         ER&DCI University, Kerala	            1999
+         Mtech	         Oxford University, England	            2005
+
+     2.Department and Designation: Civil Engineering Department
+                                   Professor
+     3.Experience: 8 years
+
+

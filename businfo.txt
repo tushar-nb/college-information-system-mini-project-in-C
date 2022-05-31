@@ -1,0 +1,56 @@
+ROUTE 'A' : SEATING 50 
+CHARGES: Rs. 14000 (February 2021 to July 2021)
+DRIVER: SHIVALINGAIAH+91 9113906185
+
+BOARDING POINTSTIMINGS
+Domlur Flyover6.45 AM
+12th Main Circle6.50 AM 
+80 Feet Road (Tippasandra)6.53 AM
+Manipal Centre7.22 AM
+Commercial Street7.25 AM
+Vijay Mallya Hospital7.30 AM
+Back to PESU RR Campus
+
+ROUTE 'B' : SEATING 50 
+
+CHARGES: Rs. 16000/Rs. 14000 (February 2021 to July 2021)
+DRIVER: RAVINDRAKUMAR+91 9902908475
+
+BOARDING POINTSTIMINGSCHARGE
+SHennur Rd/Ring Rd Junction Via 80FT RD6.30 AM
+Lingarajapuram Bus Stop/ SBI Bank6.35 AM
+Clarence School6.40 AM
+Navarang Theatre7.15 AM
+Rajajinagar Police Station7.17 AM
+Dhobi Ghat Signal7.21 AM
+Back to PESU RR Campus
+
+ROUTE 'C' : SEATING 40 
+
+CHARGES: RS. 14000 (February 2021 to July 2021)
+DRIVER: SUDHAKAR. S+91 9611893053
+
+BOARDING POINTSTIMINGS
+Nandini Layout6.55 AM
+Mahalakshmi Layout7.00 AM
+Shell Petrol Bunk (Soap Factory)7.05 AM
+Rajajinagar 1st Block7.10 AM
+Hotel Pavithra Paradise7.21 AM
+Housing Board (Magadi Road Jn.)7.24 AM
+BTS Garage West of Chord Road7.33 AM
+Back to PESU RR Campus
+
+ROUTE 'D' : SEATING 54 
+CHARGES: Rs. 16000/Rs. 14000 (February 2021 to July 2021)
+DRIVER: SATHISH+91 9590111153
+
+BOARDING POINTSTIMINGS
+SMeenakshi Temple6.40 AM
+Hulimavu (Bus Stop/Bata Showroom)6.43 AM
+J P Nagar 15th Cross7.05 AM
+R V Dental College7.10 AM
+Jayanagar 7th Block7.25 AM
+Banashankari BDA Complex7.30 AM
+Back to PESU RR Campus
+
+

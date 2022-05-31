@@ -1,0 +1,14 @@
+#include<time.h>: It is used to perform functions related to date() and time() like setdate() and getdate().
+                                 It is also used to modify the system date and get the CPU time respectively.
+#include<stdio.h>: It is used to perform input and output operations using functions scanf() and printf().
+#include<string.h>: It is used to perform various functionalities related to string manupulation 
+                                  like strlen(), strcmp(), strcpy(), size(), etc.
+
+#include<conio.h>: is a header file mostly used by MS-DOS compilers to provide console input and output.
+                                  Some of its inbuilt functions are:
+                                                                       -clrscr() - It is used to clear the screen
+                                                                        -kbhit() - Determines if a keyboard key was pressed
+                                                                         -putch() - Writes a chara
+#include<stdlib.h> :  Defines numeric conversion functions, pseudo random network generator, memory allocation.
+#include<windows.h> : header file is used to access the Win32 API functions and it makes it easier for the user
+                                        to use the in-built functionality.

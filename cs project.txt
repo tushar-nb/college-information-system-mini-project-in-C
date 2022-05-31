@@ -1,0 +1,26 @@
+3:COLLEGE INFO SYSTEM:
+>Student section: just to get info abt clg,teachers,bus facilities,subjects list and cls tt(read only mode)
+	             any1 can access.
+>Admin section: -need to login through password.
+	           - includes options like add info.,search info.,edit,delete.(done through functions)
+	          -only authorized person is allowed.
+17:CALENDER APPLICATION:
+	-mainly 3 operations:
+		1.find the day corresponding to given date(dd/mm/yyyy).
+		2.navigation from the date(eg.:enter 'p' to previous date,'n' to next date).
+		3.no. of days must be displayed for entered year or month.
+	-include mainly calender calculations...!!
+22.PACMAN GAME IN C:
+	
+
+30.ATM SIMULATOR:
+	-pre define some built in account holders name with username and password.
+	-need to login.
+	-can enquiry abt the balance amount.
+	-can withdraw money,check for balance amount if available then allow to withdraw and
+	 then need to update balance amount else,error msg(no enough account balance).
+	-can change the password.
+	-can deposite money, then update the balance amount.
+	-keep track of total money in the atm in terms of denominations(no. of notes count).
+	-clear and exit to main menu.
+

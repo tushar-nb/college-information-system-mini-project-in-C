@@ -1,0 +1,28 @@
+Physics Cycle:
+
+Subject code    :  Subject
+
+UE20CS101       :  Python for Computational Problem Solving
+UE20ME101       :  Mechanical engineering Sciences
+UE20PH101       :  Engineering Physics
+UE20MA101       :  Engineering Mathematics-I
+UE20EE101       :  Elements of Electrical Engineering
+UE20EV101       :  Environmental Studies and Life Sciences
+UE20PH102 	:  Physics Laboratory
+UE20CS102       :  Python for Computational Problem Solving Laboratory
+
+
+Chemistry cycle:
+
+Subject code    :  Subject
+
+UE20CS152       :  Problem Solving with C
+UE20CV101       :  Engineering Mechanics - Statics
+UE20EC101       :  Electronic Principles and Devices
+UE20MA151       :  Engineering Mathematics-II
+UE20CY101       :  Engineering Chemistry
+UE20CE101       :  Constitution of India, Cyber law and Professional Ethics
+UE20CY102 	:  Chemistry Laboratory
+UE20CS152 	:  Problem Solving with C Laboratory
+
+
